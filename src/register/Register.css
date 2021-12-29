@@ -1,0 +1,7 @@
+.container {
+  padding: 30px 20px 20px 20px;
+}
+
+.register__btn {
+  margin-top: 10px !important;
+} /** importtant ignores all other styles, if any changes will be done in future**/
